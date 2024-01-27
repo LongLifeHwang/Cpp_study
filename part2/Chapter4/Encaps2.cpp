@@ -47,17 +47,3 @@ int main(void)
     sufferer.TakeCONTAC600(cap);
     return (0);
 }
-
-
-int main(void)
-{
-    SinivelCap  scap;
-    SneezeCap   zcap;
-    SnuffleCap  ncap;
-    ColdPatient sufferer;
-
-    sufferer.TakeSinivelCap(scap);
-    sufferer.TakeSneezeCap(zcap);
-    sufferer.TakeSnuffleCap(ncap);
-    return (0);
-}
