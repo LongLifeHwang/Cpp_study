@@ -1,4 +1,4 @@
-#include "Point.h"
+#include "Rectangle.h"
 
 int main(void)
 {
