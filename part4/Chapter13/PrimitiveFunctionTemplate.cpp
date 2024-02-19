@@ -12,5 +12,5 @@ int main(void)
     ShowData<char, int>(67);
     ShowData<char, double>(68.9);
     ShowData<char, double>(69.2);
-    return (0);
+    return (0); 
 }
