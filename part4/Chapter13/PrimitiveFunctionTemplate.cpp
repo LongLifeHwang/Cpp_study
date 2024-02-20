@@ -6,7 +6,7 @@ void    ShowData(doble num)
     std::cout<<(T1)num<<", "<<(T2)num<<std::endl;
 }
 
-int main(void)
+int main(void) 
 {
     ShowData<char, int>(65);
     ShowData<char, int>(67);
